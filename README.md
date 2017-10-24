@@ -1,9 +1,9 @@
 # Static Comp of Bradley Woofer
-This challenge entailed recreating an initial static composition, with a bit of creative license. 
+This challenge entailed recreating an initial static composition, using a bit of creative license. 
 
 ## Original Composition
-![original comp](./images/initial-comp.jpg "Original Comp")
+(https://imgur.com/a/dkc1S)
 
 ## Final Composition
-![final comp](./images/final-comp.png "Final Comp")
+(https://imgur.com/a/qkQ51)
 
